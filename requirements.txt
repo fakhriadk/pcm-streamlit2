@@ -1,0 +1,11 @@
+streamlit
+numpy
+matplotlib
+scipy
+scikit-image
+Pillow
+packaging
+nibabel
+opencv-python
+pandas
+openpyxl
